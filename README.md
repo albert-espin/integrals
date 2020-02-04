@@ -5,7 +5,7 @@ Two approaches at integral calculation via numerical methods are included: trape
 
 | | | |
 |-|-|-|
-| **Programming language**  | Python 2 |
+| **Programming language**  | C |
 | **Language**   | English (variables and functions), Catalan (comments) |
 | **Author** | Albert Espín |
 | **Date**  | Q4 2015  |
